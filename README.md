@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xieguiyan
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning python & transcritom analysis methods
+- 🌱 I’m currently learning python & transcriptom analysis methods
 - 💞️ I’m looking to collaborate on ...
-- 📫 Mail: xieguiyan@hust.edu.cn
+
 
